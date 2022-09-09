@@ -1,9 +1,9 @@
 #include "monty.h"
 
 /**
- * _queue - sets the format of the data to a queue (FIFO)
+ * _queue - Sets the format of the data to a queue (FIFO)
  *
- * @doubly: head of the linked list
+ * @doubly: Head of the linked list
  * @cline: line number;
  * Return: no return
  */

@@ -128,7 +128,7 @@ void _pchar(stack_t **doubly, unsigned int cline)
 /**
  * _pstr - prints the string of the stack
  *
- * @doubly: head of the linked list
+ * @doubly: Head of the linked list
  * @cline: line number;
  * Return: no return
  */

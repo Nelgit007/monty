@@ -1,11 +1,11 @@
 #include "monty.h"
 
 /**
- * get_opcodes - selects the correct opcode to perform
+ * get_opcodes - Selects the correct opcode to perform
  *
  * @opc: opcode passed
  *
- * Return: pointer to the function that executes the opcode
+ * Return: Pointer to the function that executes the opcode
  */
 void (*get_opcodes(char *opc))(stack_t **stack, unsigned int line_number)
 {
